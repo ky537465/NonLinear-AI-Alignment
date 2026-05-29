@@ -4,6 +4,7 @@ output: html_notebook
 ---
 
 ```{r}
+add dependencies
 library(dplyr)
 library(stats)
 ```
