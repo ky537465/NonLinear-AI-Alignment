@@ -3,23 +3,46 @@
         "action_context": [
             {
                 "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "60e8f844c22d69759bcdb969",
+        "horizon": 2,
+        "utt": {
+            "color": "red",
+            "shape": "plain",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
                 "shape": "plain"
             },
             {
                 "color": "green",
                 "shape": "spotted"
-            },
-            {
-                "color": "blue",
-                "shape": "striped"
             }
         ],
         "workerid": "60e8f844c22d69759bcdb969",
-        "horizon": 1,
+        "horizon": 4,
         "utt": {
-            "color": "green",
-            "shape": "spotted",
-            "type": "instruction"
+            "type": "description",
+            "feature": "spotted",
+            "value": -1
         }
     },
     {
@@ -43,29 +66,6 @@
             "color": "green",
             "shape": "plain",
             "type": "instruction"
-        }
-    },
-    {
-        "action_context": [
-            {
-                "color": "blue",
-                "shape": "spotted"
-            },
-            {
-                "color": "green",
-                "shape": "spotted"
-            },
-            {
-                "color": "red",
-                "shape": "striped"
-            }
-        ],
-        "workerid": "60e8f844c22d69759bcdb969",
-        "horizon": 3,
-        "utt": {
-            "type": "description",
-            "feature": "spotted",
-            "value": -1
         }
     },
     {
@@ -95,29 +95,6 @@
         "action_context": [
             {
                 "color": "red",
-                "shape": "plain"
-            },
-            {
-                "color": "green",
-                "shape": "spotted"
-            },
-            {
-                "color": "blue",
-                "shape": "striped"
-            }
-        ],
-        "workerid": "5f5d25e5b17ec4562931508f",
-        "horizon": 1,
-        "utt": {
-            "type": "description",
-            "feature": "spotted",
-            "value": 1
-        }
-    },
-    {
-        "action_context": [
-            {
-                "color": "red",
                 "shape": "striped"
             },
             {
@@ -133,31 +110,8 @@
         "horizon": 2,
         "utt": {
             "type": "description",
-            "feature": "red",
-            "value": -2
-        }
-    },
-    {
-        "action_context": [
-            {
-                "color": "blue",
-                "shape": "spotted"
-            },
-            {
-                "color": "green",
-                "shape": "spotted"
-            },
-            {
-                "color": "red",
-                "shape": "striped"
-            }
-        ],
-        "workerid": "5f5d25e5b17ec4562931508f",
-        "horizon": 3,
-        "utt": {
-            "type": "description",
-            "feature": "spotted",
-            "value": 2
+            "feature": "striped",
+            "value": 0
         }
     },
     {
@@ -187,23 +141,46 @@
         "action_context": [
             {
                 "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "5f5d25e5b17ec4562931508f",
+        "horizon": 2,
+        "utt": {
+            "type": "description",
+            "feature": "red",
+            "value": -2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
                 "shape": "plain"
             },
             {
                 "color": "green",
                 "shape": "spotted"
-            },
-            {
-                "color": "blue",
-                "shape": "striped"
             }
         ],
-        "workerid": "61005a9bfd2f14f18ef7ec7d",
-        "horizon": 1,
+        "workerid": "5f5d25e5b17ec4562931508f",
+        "horizon": 4,
         "utt": {
-            "color": "red",
-            "shape": "plain",
-            "type": "instruction"
+            "type": "description",
+            "feature": "striped",
+            "value": 0
         }
     },
     {
@@ -224,6 +201,29 @@
         "workerid": "61005a9bfd2f14f18ef7ec7d",
         "horizon": 2,
         "utt": {
+            "color": "green",
+            "shape": "plain",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            }
+        ],
+        "workerid": "61005a9bfd2f14f18ef7ec7d",
+        "horizon": 4,
+        "utt": {
             "type": "description",
             "feature": "green",
             "value": 2
@@ -232,20 +232,20 @@
     {
         "action_context": [
             {
-                "color": "blue",
-                "shape": "spotted"
+                "color": "red",
+                "shape": "striped"
             },
             {
                 "color": "green",
-                "shape": "spotted"
+                "shape": "plain"
             },
             {
                 "color": "red",
-                "shape": "striped"
+                "shape": "plain"
             }
         ],
         "workerid": "61005a9bfd2f14f18ef7ec7d",
-        "horizon": 3,
+        "horizon": 2,
         "utt": {
             "type": "description",
             "feature": "green",
@@ -279,23 +279,46 @@
         "action_context": [
             {
                 "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "66463b51bfb8084f4f45b602",
+        "horizon": 2,
+        "utt": {
+            "type": "description",
+            "feature": "plain",
+            "value": -2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
                 "shape": "plain"
             },
             {
                 "color": "green",
                 "shape": "spotted"
-            },
-            {
-                "color": "blue",
-                "shape": "striped"
             }
         ],
         "workerid": "66463b51bfb8084f4f45b602",
-        "horizon": 1,
+        "horizon": 4,
         "utt": {
-            "color": "green",
-            "shape": "spotted",
-            "type": "instruction"
+            "type": "description",
+            "feature": "spotted",
+            "value": 2
         }
     },
     {
@@ -319,29 +342,6 @@
             "type": "description",
             "feature": "red",
             "value": 0
-        }
-    },
-    {
-        "action_context": [
-            {
-                "color": "blue",
-                "shape": "spotted"
-            },
-            {
-                "color": "green",
-                "shape": "spotted"
-            },
-            {
-                "color": "red",
-                "shape": "striped"
-            }
-        ],
-        "workerid": "66463b51bfb8084f4f45b602",
-        "horizon": 3,
-        "utt": {
-            "color": "blue",
-            "shape": "spotted",
-            "type": "instruction"
         }
     },
     {
@@ -371,19 +371,42 @@
         "action_context": [
             {
                 "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "6641a4465118812c21972666",
+        "horizon": 2,
+        "utt": {
+            "color": "green",
+            "shape": "striped",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
                 "shape": "plain"
             },
             {
                 "color": "green",
                 "shape": "spotted"
-            },
-            {
-                "color": "blue",
-                "shape": "striped"
             }
         ],
         "workerid": "6641a4465118812c21972666",
-        "horizon": 1,
+        "horizon": 4,
         "utt": {
             "color": "green",
             "shape": "spotted",
@@ -410,29 +433,6 @@
         "utt": {
             "color": "green",
             "shape": "plain",
-            "type": "instruction"
-        }
-    },
-    {
-        "action_context": [
-            {
-                "color": "blue",
-                "shape": "spotted"
-            },
-            {
-                "color": "green",
-                "shape": "spotted"
-            },
-            {
-                "color": "red",
-                "shape": "striped"
-            }
-        ],
-        "workerid": "6641a4465118812c21972666",
-        "horizon": 3,
-        "utt": {
-            "color": "blue",
-            "shape": "spotted",
             "type": "instruction"
         }
     },
@@ -463,19 +463,42 @@
         "action_context": [
             {
                 "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "6561fe992ee7c9362b2a2044",
+        "horizon": 2,
+        "utt": {
+            "color": "red",
+            "shape": "striped",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
                 "shape": "plain"
             },
             {
                 "color": "green",
                 "shape": "spotted"
-            },
-            {
-                "color": "blue",
-                "shape": "striped"
             }
         ],
         "workerid": "6561fe992ee7c9362b2a2044",
-        "horizon": 1,
+        "horizon": 4,
         "utt": {
             "type": "description",
             "feature": "green",
@@ -499,29 +522,6 @@
         ],
         "workerid": "6561fe992ee7c9362b2a2044",
         "horizon": 2,
-        "utt": {
-            "type": "description",
-            "feature": "green",
-            "value": 2
-        }
-    },
-    {
-        "action_context": [
-            {
-                "color": "blue",
-                "shape": "spotted"
-            },
-            {
-                "color": "green",
-                "shape": "spotted"
-            },
-            {
-                "color": "red",
-                "shape": "striped"
-            }
-        ],
-        "workerid": "6561fe992ee7c9362b2a2044",
-        "horizon": 3,
         "utt": {
             "type": "description",
             "feature": "green",
@@ -555,23 +555,46 @@
         "action_context": [
             {
                 "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "5aaa235255be420001de9131",
+        "horizon": 2,
+        "utt": {
+            "type": "description",
+            "feature": "green",
+            "value": -2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
                 "shape": "plain"
             },
             {
                 "color": "green",
                 "shape": "spotted"
-            },
-            {
-                "color": "blue",
-                "shape": "striped"
             }
         ],
         "workerid": "5aaa235255be420001de9131",
-        "horizon": 1,
+        "horizon": 4,
         "utt": {
-            "color": "green",
-            "shape": "plain",
-            "type": "instruction"
+            "type": "description",
+            "feature": "blue",
+            "value": -2
         }
     },
     {
@@ -593,29 +616,6 @@
         "horizon": 2,
         "utt": {
             "color": "green",
-            "shape": "plain",
-            "type": "instruction"
-        }
-    },
-    {
-        "action_context": [
-            {
-                "color": "blue",
-                "shape": "spotted"
-            },
-            {
-                "color": "green",
-                "shape": "spotted"
-            },
-            {
-                "color": "red",
-                "shape": "striped"
-            }
-        ],
-        "workerid": "5aaa235255be420001de9131",
-        "horizon": 3,
-        "utt": {
-            "color": "blue",
             "shape": "plain",
             "type": "instruction"
         }
@@ -647,29 +647,6 @@
         "action_context": [
             {
                 "color": "red",
-                "shape": "plain"
-            },
-            {
-                "color": "green",
-                "shape": "spotted"
-            },
-            {
-                "color": "blue",
-                "shape": "striped"
-            }
-        ],
-        "workerid": "644e91f48e0afefe11d00e00",
-        "horizon": 1,
-        "utt": {
-            "color": "red",
-            "shape": "plain",
-            "type": "instruction"
-        }
-    },
-    {
-        "action_context": [
-            {
-                "color": "red",
                 "shape": "striped"
             },
             {
@@ -687,29 +664,6 @@
             "color": "green",
             "shape": "plain",
             "type": "instruction"
-        }
-    },
-    {
-        "action_context": [
-            {
-                "color": "blue",
-                "shape": "spotted"
-            },
-            {
-                "color": "green",
-                "shape": "spotted"
-            },
-            {
-                "color": "red",
-                "shape": "striped"
-            }
-        ],
-        "workerid": "644e91f48e0afefe11d00e00",
-        "horizon": 3,
-        "utt": {
-            "type": "description",
-            "feature": "green",
-            "value": 2
         }
     },
     {
@@ -739,23 +693,46 @@
         "action_context": [
             {
                 "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "644e91f48e0afefe11d00e00",
+        "horizon": 2,
+        "utt": {
+            "color": "green",
+            "shape": "plain",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
                 "shape": "plain"
             },
             {
                 "color": "green",
                 "shape": "spotted"
-            },
-            {
-                "color": "blue",
-                "shape": "striped"
             }
         ],
-        "workerid": "5e79b84d4633bc575ddb3812",
-        "horizon": 1,
+        "workerid": "644e91f48e0afefe11d00e00",
+        "horizon": 4,
         "utt": {
             "type": "description",
-            "feature": "spotted",
-            "value": 2
+            "feature": "blue",
+            "value": -2
         }
     },
     {
@@ -778,29 +755,6 @@
         "utt": {
             "color": "red",
             "shape": "striped",
-            "type": "instruction"
-        }
-    },
-    {
-        "action_context": [
-            {
-                "color": "blue",
-                "shape": "spotted"
-            },
-            {
-                "color": "green",
-                "shape": "spotted"
-            },
-            {
-                "color": "red",
-                "shape": "striped"
-            }
-        ],
-        "workerid": "5e79b84d4633bc575ddb3812",
-        "horizon": 3,
-        "utt": {
-            "color": "blue",
-            "shape": "spotted",
             "type": "instruction"
         }
     },
@@ -831,23 +785,92 @@
         "action_context": [
             {
                 "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "5e79b84d4633bc575ddb3812",
+        "horizon": 2,
+        "utt": {
+            "color": "red",
+            "shape": "striped",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
                 "shape": "plain"
             },
             {
                 "color": "green",
                 "shape": "spotted"
+            }
+        ],
+        "workerid": "5e79b84d4633bc575ddb3812",
+        "horizon": 4,
+        "utt": {
+            "color": "red",
+            "shape": "striped",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
             },
             {
-                "color": "blue",
-                "shape": "striped"
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
             }
         ],
         "workerid": "5f58fa9f43f1b20c9761ed64",
-        "horizon": 1,
+        "horizon": 2,
         "utt": {
-            "color": "green",
-            "shape": "spotted",
-            "type": "instruction"
+            "type": "description",
+            "feature": "spotted",
+            "value": 2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            }
+        ],
+        "workerid": "5f58fa9f43f1b20c9761ed64",
+        "horizon": 4,
+        "utt": {
+            "type": "description",
+            "feature": "blue",
+            "value": 1
         }
     },
     {
@@ -876,29 +899,6 @@
     {
         "action_context": [
             {
-                "color": "blue",
-                "shape": "spotted"
-            },
-            {
-                "color": "green",
-                "shape": "spotted"
-            },
-            {
-                "color": "red",
-                "shape": "striped"
-            }
-        ],
-        "workerid": "5f58fa9f43f1b20c9761ed64",
-        "horizon": 3,
-        "utt": {
-            "color": "blue",
-            "shape": "spotted",
-            "type": "instruction"
-        }
-    },
-    {
-        "action_context": [
-            {
                 "color": "red",
                 "shape": "striped"
             },
@@ -923,19 +923,42 @@
         "action_context": [
             {
                 "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "63d80e0449b458dd5f8140be",
+        "horizon": 2,
+        "utt": {
+            "type": "description",
+            "feature": "red",
+            "value": 0
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
                 "shape": "plain"
             },
             {
                 "color": "green",
                 "shape": "spotted"
-            },
-            {
-                "color": "blue",
-                "shape": "striped"
             }
         ],
         "workerid": "63d80e0449b458dd5f8140be",
-        "horizon": 1,
+        "horizon": 4,
         "utt": {
             "type": "description",
             "feature": "green",
@@ -968,29 +991,6 @@
     {
         "action_context": [
             {
-                "color": "blue",
-                "shape": "spotted"
-            },
-            {
-                "color": "green",
-                "shape": "spotted"
-            },
-            {
-                "color": "red",
-                "shape": "striped"
-            }
-        ],
-        "workerid": "63d80e0449b458dd5f8140be",
-        "horizon": 3,
-        "utt": {
-            "color": "green",
-            "shape": "spotted",
-            "type": "instruction"
-        }
-    },
-    {
-        "action_context": [
-            {
                 "color": "red",
                 "shape": "striped"
             },
@@ -1005,29 +1005,6 @@
         ],
         "workerid": "63d80e0449b458dd5f8140be",
         "horizon": 4,
-        "utt": {
-            "type": "description",
-            "feature": "green",
-            "value": 2
-        }
-    },
-    {
-        "action_context": [
-            {
-                "color": "red",
-                "shape": "plain"
-            },
-            {
-                "color": "green",
-                "shape": "spotted"
-            },
-            {
-                "color": "blue",
-                "shape": "striped"
-            }
-        ],
-        "workerid": "6168e3efc08671bd92f7fd37",
-        "horizon": 1,
         "utt": {
             "type": "description",
             "feature": "green",
@@ -1055,29 +1032,6 @@
             "type": "description",
             "feature": "green",
             "value": 2
-        }
-    },
-    {
-        "action_context": [
-            {
-                "color": "blue",
-                "shape": "spotted"
-            },
-            {
-                "color": "green",
-                "shape": "spotted"
-            },
-            {
-                "color": "red",
-                "shape": "striped"
-            }
-        ],
-        "workerid": "6168e3efc08671bd92f7fd37",
-        "horizon": 3,
-        "utt": {
-            "type": "description",
-            "feature": "blue",
-            "value": -2
         }
     },
     {
@@ -1107,23 +1061,92 @@
         "action_context": [
             {
                 "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "6168e3efc08671bd92f7fd37",
+        "horizon": 2,
+        "utt": {
+            "type": "description",
+            "feature": "green",
+            "value": 2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
                 "shape": "plain"
             },
             {
                 "color": "green",
                 "shape": "spotted"
+            }
+        ],
+        "workerid": "6168e3efc08671bd92f7fd37",
+        "horizon": 4,
+        "utt": {
+            "type": "description",
+            "feature": "spotted",
+            "value": -1
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
             },
             {
-                "color": "blue",
-                "shape": "striped"
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
             }
         ],
         "workerid": "6643bcf1ee723e90ec8969ef",
-        "horizon": 1,
+        "horizon": 2,
         "utt": {
-            "type": "description",
-            "feature": "blue",
-            "value": -2
+            "color": "green",
+            "shape": "plain",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            }
+        ],
+        "workerid": "6643bcf1ee723e90ec8969ef",
+        "horizon": 4,
+        "utt": {
+            "color": "green",
+            "shape": "spotted",
+            "type": "instruction"
         }
     },
     {
@@ -1147,29 +1170,6 @@
             "type": "description",
             "feature": "red",
             "value": 0
-        }
-    },
-    {
-        "action_context": [
-            {
-                "color": "blue",
-                "shape": "spotted"
-            },
-            {
-                "color": "green",
-                "shape": "spotted"
-            },
-            {
-                "color": "red",
-                "shape": "striped"
-            }
-        ],
-        "workerid": "6643bcf1ee723e90ec8969ef",
-        "horizon": 3,
-        "utt": {
-            "color": "green",
-            "shape": "spotted",
-            "type": "instruction"
         }
     },
     {
@@ -1199,22 +1199,45 @@
         "action_context": [
             {
                 "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "6537f71dc93da63fa5d5a3cb",
+        "horizon": 2,
+        "utt": {
+            "color": "red",
+            "shape": "striped",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
                 "shape": "plain"
             },
             {
                 "color": "green",
                 "shape": "spotted"
-            },
-            {
-                "color": "blue",
-                "shape": "striped"
             }
         ],
         "workerid": "6537f71dc93da63fa5d5a3cb",
-        "horizon": 1,
+        "horizon": 4,
         "utt": {
-            "color": "green",
-            "shape": "spotted",
+            "color": "red",
+            "shape": "striped",
             "type": "instruction"
         }
     },
@@ -1244,29 +1267,6 @@
     {
         "action_context": [
             {
-                "color": "blue",
-                "shape": "spotted"
-            },
-            {
-                "color": "green",
-                "shape": "spotted"
-            },
-            {
-                "color": "red",
-                "shape": "striped"
-            }
-        ],
-        "workerid": "6537f71dc93da63fa5d5a3cb",
-        "horizon": 3,
-        "utt": {
-            "color": "blue",
-            "shape": "spotted",
-            "type": "instruction"
-        }
-    },
-    {
-        "action_context": [
-            {
                 "color": "red",
                 "shape": "striped"
             },
@@ -1291,23 +1291,46 @@
         "action_context": [
             {
                 "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "65cb6d6ef9cc8ce9042143e7",
+        "horizon": 2,
+        "utt": {
+            "type": "description",
+            "feature": "plain",
+            "value": -2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
                 "shape": "plain"
             },
             {
                 "color": "green",
                 "shape": "spotted"
-            },
-            {
-                "color": "blue",
-                "shape": "striped"
             }
         ],
         "workerid": "65cb6d6ef9cc8ce9042143e7",
-        "horizon": 1,
+        "horizon": 4,
         "utt": {
             "type": "description",
-            "feature": "plain",
-            "value": -2
+            "feature": "blue",
+            "value": 1
         }
     },
     {
@@ -1331,29 +1354,6 @@
             "type": "description",
             "feature": "plain",
             "value": -2
-        }
-    },
-    {
-        "action_context": [
-            {
-                "color": "blue",
-                "shape": "spotted"
-            },
-            {
-                "color": "green",
-                "shape": "spotted"
-            },
-            {
-                "color": "red",
-                "shape": "striped"
-            }
-        ],
-        "workerid": "65cb6d6ef9cc8ce9042143e7",
-        "horizon": 3,
-        "utt": {
-            "type": "description",
-            "feature": "blue",
-            "value": 1
         }
     },
     {
@@ -1383,23 +1383,46 @@
         "action_context": [
             {
                 "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "657a0b90f74df15ba94f1d5a",
+        "horizon": 2,
+        "utt": {
+            "type": "description",
+            "feature": "green",
+            "value": -2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
                 "shape": "plain"
             },
             {
                 "color": "green",
                 "shape": "spotted"
-            },
-            {
-                "color": "blue",
-                "shape": "striped"
             }
         ],
         "workerid": "657a0b90f74df15ba94f1d5a",
-        "horizon": 1,
+        "horizon": 4,
         "utt": {
             "type": "description",
-            "feature": "green",
-            "value": 1
+            "feature": "blue",
+            "value": -1
         }
     },
     {
@@ -1423,29 +1446,6 @@
             "type": "description",
             "feature": "green",
             "value": 2
-        }
-    },
-    {
-        "action_context": [
-            {
-                "color": "blue",
-                "shape": "spotted"
-            },
-            {
-                "color": "green",
-                "shape": "spotted"
-            },
-            {
-                "color": "red",
-                "shape": "striped"
-            }
-        ],
-        "workerid": "657a0b90f74df15ba94f1d5a",
-        "horizon": 3,
-        "utt": {
-            "type": "description",
-            "feature": "blue",
-            "value": 1
         }
     },
     {
@@ -1475,23 +1475,46 @@
         "action_context": [
             {
                 "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "614f2de48a5fdf9347f1cd4e",
+        "horizon": 2,
+        "utt": {
+            "color": "red",
+            "shape": "plain",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
                 "shape": "plain"
             },
             {
                 "color": "green",
                 "shape": "spotted"
-            },
-            {
-                "color": "blue",
-                "shape": "striped"
             }
         ],
         "workerid": "614f2de48a5fdf9347f1cd4e",
-        "horizon": 1,
+        "horizon": 4,
         "utt": {
             "type": "description",
-            "feature": "green",
-            "value": 2
+            "feature": "blue",
+            "value": -2
         }
     },
     {
@@ -1515,29 +1538,6 @@
             "type": "description",
             "feature": "red",
             "value": 0
-        }
-    },
-    {
-        "action_context": [
-            {
-                "color": "blue",
-                "shape": "spotted"
-            },
-            {
-                "color": "green",
-                "shape": "spotted"
-            },
-            {
-                "color": "red",
-                "shape": "striped"
-            }
-        ],
-        "workerid": "614f2de48a5fdf9347f1cd4e",
-        "horizon": 3,
-        "utt": {
-            "type": "description",
-            "feature": "plain",
-            "value": 1
         }
     },
     {
@@ -1567,19 +1567,42 @@
         "action_context": [
             {
                 "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "64691ca0268f0a4606800d33",
+        "horizon": 2,
+        "utt": {
+            "color": "green",
+            "shape": "striped",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
                 "shape": "plain"
             },
             {
                 "color": "green",
                 "shape": "spotted"
-            },
-            {
-                "color": "blue",
-                "shape": "striped"
             }
         ],
         "workerid": "64691ca0268f0a4606800d33",
-        "horizon": 1,
+        "horizon": 4,
         "utt": {
             "color": "green",
             "shape": "plain",
@@ -1605,29 +1628,6 @@
         "horizon": 2,
         "utt": {
             "color": "green",
-            "shape": "plain",
-            "type": "instruction"
-        }
-    },
-    {
-        "action_context": [
-            {
-                "color": "blue",
-                "shape": "spotted"
-            },
-            {
-                "color": "green",
-                "shape": "spotted"
-            },
-            {
-                "color": "red",
-                "shape": "striped"
-            }
-        ],
-        "workerid": "64691ca0268f0a4606800d33",
-        "horizon": 3,
-        "utt": {
-            "color": "blue",
             "shape": "plain",
             "type": "instruction"
         }
@@ -1659,19 +1659,42 @@
         "action_context": [
             {
                 "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "66266dd55403eb09f9fc01a5",
+        "horizon": 2,
+        "utt": {
+            "color": "green",
+            "shape": "plain",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
                 "shape": "plain"
             },
             {
                 "color": "green",
                 "shape": "spotted"
-            },
-            {
-                "color": "blue",
-                "shape": "striped"
             }
         ],
         "workerid": "66266dd55403eb09f9fc01a5",
-        "horizon": 1,
+        "horizon": 4,
         "utt": {
             "color": "green",
             "shape": "spotted",
@@ -1704,29 +1727,6 @@
     {
         "action_context": [
             {
-                "color": "blue",
-                "shape": "spotted"
-            },
-            {
-                "color": "green",
-                "shape": "spotted"
-            },
-            {
-                "color": "red",
-                "shape": "striped"
-            }
-        ],
-        "workerid": "66266dd55403eb09f9fc01a5",
-        "horizon": 3,
-        "utt": {
-            "color": "green",
-            "shape": "spotted",
-            "type": "instruction"
-        }
-    },
-    {
-        "action_context": [
-            {
                 "color": "red",
                 "shape": "striped"
             },
@@ -1751,23 +1751,46 @@
         "action_context": [
             {
                 "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "66464b6dd7787eac6920db24",
+        "horizon": 2,
+        "utt": {
+            "color": "red",
+            "shape": "plain",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
                 "shape": "plain"
             },
             {
                 "color": "green",
                 "shape": "spotted"
-            },
-            {
-                "color": "blue",
-                "shape": "striped"
             }
         ],
         "workerid": "66464b6dd7787eac6920db24",
-        "horizon": 1,
+        "horizon": 4,
         "utt": {
-            "type": "description",
-            "feature": "spotted",
-            "value": 2
+            "color": "green",
+            "shape": "spotted",
+            "type": "instruction"
         }
     },
     {
@@ -1791,29 +1814,6 @@
             "type": "description",
             "feature": "red",
             "value": -2
-        }
-    },
-    {
-        "action_context": [
-            {
-                "color": "blue",
-                "shape": "spotted"
-            },
-            {
-                "color": "green",
-                "shape": "spotted"
-            },
-            {
-                "color": "red",
-                "shape": "striped"
-            }
-        ],
-        "workerid": "66464b6dd7787eac6920db24",
-        "horizon": 3,
-        "utt": {
-            "color": "green",
-            "shape": "spotted",
-            "type": "instruction"
         }
     },
     {
@@ -1843,29 +1843,6 @@
         "action_context": [
             {
                 "color": "red",
-                "shape": "plain"
-            },
-            {
-                "color": "green",
-                "shape": "spotted"
-            },
-            {
-                "color": "blue",
-                "shape": "striped"
-            }
-        ],
-        "workerid": "5d9d5e2e43c6e300159417ae",
-        "horizon": 1,
-        "utt": {
-            "type": "description",
-            "feature": "green",
-            "value": 2
-        }
-    },
-    {
-        "action_context": [
-            {
-                "color": "red",
                 "shape": "striped"
             },
             {
@@ -1882,29 +1859,6 @@
         "utt": {
             "color": "green",
             "shape": "plain",
-            "type": "instruction"
-        }
-    },
-    {
-        "action_context": [
-            {
-                "color": "blue",
-                "shape": "spotted"
-            },
-            {
-                "color": "green",
-                "shape": "spotted"
-            },
-            {
-                "color": "red",
-                "shape": "striped"
-            }
-        ],
-        "workerid": "5d9d5e2e43c6e300159417ae",
-        "horizon": 3,
-        "utt": {
-            "color": "green",
-            "shape": "spotted",
             "type": "instruction"
         }
     },
@@ -1935,19 +1889,42 @@
         "action_context": [
             {
                 "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "5d9d5e2e43c6e300159417ae",
+        "horizon": 2,
+        "utt": {
+            "color": "green",
+            "shape": "plain",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
                 "shape": "plain"
             },
             {
                 "color": "green",
                 "shape": "spotted"
-            },
-            {
-                "color": "blue",
-                "shape": "striped"
             }
         ],
-        "workerid": "56189fff7d110000113b96ac",
-        "horizon": 1,
+        "workerid": "5d9d5e2e43c6e300159417ae",
+        "horizon": 4,
         "utt": {
             "color": "green",
             "shape": "spotted",
@@ -1972,7 +1949,7 @@
         "workerid": "56189fff7d110000113b96ac",
         "horizon": 2,
         "utt": {
-            "color": "green",
+            "color": "red",
             "shape": "plain",
             "type": "instruction"
         }
@@ -1980,24 +1957,47 @@
     {
         "action_context": [
             {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
                 "color": "blue",
-                "shape": "spotted"
+                "shape": "plain"
             },
             {
                 "color": "green",
                 "shape": "spotted"
-            },
-            {
-                "color": "red",
-                "shape": "striped"
             }
         ],
         "workerid": "56189fff7d110000113b96ac",
-        "horizon": 3,
+        "horizon": 4,
         "utt": {
             "type": "description",
-            "feature": "blue",
+            "feature": "plain",
             "value": 2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "56189fff7d110000113b96ac",
+        "horizon": 2,
+        "utt": {
+            "color": "green",
+            "shape": "plain",
+            "type": "instruction"
         }
     },
     {
@@ -2027,29 +2027,6 @@
         "action_context": [
             {
                 "color": "red",
-                "shape": "plain"
-            },
-            {
-                "color": "green",
-                "shape": "spotted"
-            },
-            {
-                "color": "blue",
-                "shape": "striped"
-            }
-        ],
-        "workerid": "5e9389d87d6dc1078fe0ebee",
-        "horizon": 1,
-        "utt": {
-            "color": "green",
-            "shape": "spotted",
-            "type": "instruction"
-        }
-    },
-    {
-        "action_context": [
-            {
-                "color": "red",
                 "shape": "striped"
             },
             {
@@ -2065,31 +2042,8 @@
         "horizon": 2,
         "utt": {
             "type": "description",
-            "feature": "red",
-            "value": 0
-        }
-    },
-    {
-        "action_context": [
-            {
-                "color": "blue",
-                "shape": "spotted"
-            },
-            {
-                "color": "green",
-                "shape": "spotted"
-            },
-            {
-                "color": "red",
-                "shape": "striped"
-            }
-        ],
-        "workerid": "5e9389d87d6dc1078fe0ebee",
-        "horizon": 3,
-        "utt": {
-            "color": "blue",
-            "shape": "spotted",
-            "type": "instruction"
+            "feature": "plain",
+            "value": -2
         }
     },
     {
@@ -2119,23 +2073,46 @@
         "action_context": [
             {
                 "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "5e9389d87d6dc1078fe0ebee",
+        "horizon": 2,
+        "utt": {
+            "type": "description",
+            "feature": "red",
+            "value": 0
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
                 "shape": "plain"
             },
             {
                 "color": "green",
                 "shape": "spotted"
-            },
-            {
-                "color": "blue",
-                "shape": "striped"
             }
         ],
-        "workerid": "66290a1deb25bf69bcd79eaf",
-        "horizon": 1,
+        "workerid": "5e9389d87d6dc1078fe0ebee",
+        "horizon": 4,
         "utt": {
-            "type": "description",
-            "feature": "spotted",
-            "value": 2
+            "color": "blue",
+            "shape": "striped",
+            "type": "instruction"
         }
     },
     {
@@ -2157,27 +2134,50 @@
         "horizon": 2,
         "utt": {
             "type": "description",
-            "feature": "spotted",
-            "value": 2
+            "feature": "plain",
+            "value": -2
         }
     },
     {
         "action_context": [
             {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
                 "color": "blue",
-                "shape": "spotted"
+                "shape": "plain"
             },
             {
                 "color": "green",
                 "shape": "spotted"
-            },
-            {
-                "color": "red",
-                "shape": "striped"
             }
         ],
         "workerid": "66290a1deb25bf69bcd79eaf",
-        "horizon": 3,
+        "horizon": 4,
+        "utt": {
+            "type": "description",
+            "feature": "green",
+            "value": 1
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "66290a1deb25bf69bcd79eaf",
+        "horizon": 2,
         "utt": {
             "type": "description",
             "feature": "spotted",
@@ -2211,29 +2211,6 @@
         "action_context": [
             {
                 "color": "red",
-                "shape": "plain"
-            },
-            {
-                "color": "green",
-                "shape": "spotted"
-            },
-            {
-                "color": "blue",
-                "shape": "striped"
-            }
-        ],
-        "workerid": "63e51ddb19fccd05514c629c",
-        "horizon": 1,
-        "utt": {
-            "type": "description",
-            "feature": "green",
-            "value": 2
-        }
-    },
-    {
-        "action_context": [
-            {
-                "color": "red",
                 "shape": "striped"
             },
             {
@@ -2256,20 +2233,43 @@
     {
         "action_context": [
             {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
                 "color": "blue",
-                "shape": "spotted"
+                "shape": "plain"
             },
             {
                 "color": "green",
                 "shape": "spotted"
-            },
-            {
-                "color": "red",
-                "shape": "striped"
             }
         ],
         "workerid": "63e51ddb19fccd05514c629c",
-        "horizon": 3,
+        "horizon": 4,
+        "utt": {
+            "type": "description",
+            "feature": "blue",
+            "value": -2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "63e51ddb19fccd05514c629c",
+        "horizon": 2,
         "utt": {
             "type": "description",
             "feature": "green",
@@ -2303,23 +2303,46 @@
         "action_context": [
             {
                 "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "662f7d51a030815500d16eb0",
+        "horizon": 2,
+        "utt": {
+            "color": "red",
+            "shape": "striped",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
                 "shape": "plain"
             },
             {
                 "color": "green",
                 "shape": "spotted"
-            },
-            {
-                "color": "blue",
-                "shape": "striped"
             }
         ],
         "workerid": "662f7d51a030815500d16eb0",
-        "horizon": 1,
+        "horizon": 4,
         "utt": {
-            "type": "description",
-            "feature": "green",
-            "value": 2
+            "color": "red",
+            "shape": "striped",
+            "type": "instruction"
         }
     },
     {
@@ -2348,29 +2371,6 @@
     {
         "action_context": [
             {
-                "color": "blue",
-                "shape": "spotted"
-            },
-            {
-                "color": "green",
-                "shape": "spotted"
-            },
-            {
-                "color": "red",
-                "shape": "striped"
-            }
-        ],
-        "workerid": "662f7d51a030815500d16eb0",
-        "horizon": 3,
-        "utt": {
-            "type": "description",
-            "feature": "blue",
-            "value": 2
-        }
-    },
-    {
-        "action_context": [
-            {
                 "color": "red",
                 "shape": "striped"
             },
@@ -2395,23 +2395,46 @@
         "action_context": [
             {
                 "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "637fcf550c8c455c6098a06d",
+        "horizon": 2,
+        "utt": {
+            "type": "description",
+            "feature": "green",
+            "value": -2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
                 "shape": "plain"
             },
             {
                 "color": "green",
                 "shape": "spotted"
-            },
-            {
-                "color": "blue",
-                "shape": "striped"
             }
         ],
         "workerid": "637fcf550c8c455c6098a06d",
-        "horizon": 1,
+        "horizon": 4,
         "utt": {
-            "color": "green",
-            "shape": "plain",
-            "type": "instruction"
+            "type": "description",
+            "feature": "spotted",
+            "value": -2
         }
     },
     {
@@ -2440,29 +2463,6 @@
     {
         "action_context": [
             {
-                "color": "blue",
-                "shape": "spotted"
-            },
-            {
-                "color": "green",
-                "shape": "spotted"
-            },
-            {
-                "color": "red",
-                "shape": "striped"
-            }
-        ],
-        "workerid": "637fcf550c8c455c6098a06d",
-        "horizon": 3,
-        "utt": {
-            "color": "blue",
-            "shape": "spotted",
-            "type": "instruction"
-        }
-    },
-    {
-        "action_context": [
-            {
                 "color": "red",
                 "shape": "striped"
             },
@@ -2487,23 +2487,46 @@
         "action_context": [
             {
                 "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "661825de60cb5961005070eb",
+        "horizon": 2,
+        "utt": {
+            "type": "description",
+            "feature": "red",
+            "value": 0
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
                 "shape": "plain"
             },
             {
                 "color": "green",
                 "shape": "spotted"
-            },
-            {
-                "color": "blue",
-                "shape": "striped"
             }
         ],
         "workerid": "661825de60cb5961005070eb",
-        "horizon": 1,
+        "horizon": 4,
         "utt": {
-            "type": "description",
-            "feature": "green",
-            "value": 2
+            "color": "green",
+            "shape": "spotted",
+            "type": "instruction"
         }
     },
     {
@@ -2532,29 +2555,6 @@
     {
         "action_context": [
             {
-                "color": "blue",
-                "shape": "spotted"
-            },
-            {
-                "color": "green",
-                "shape": "spotted"
-            },
-            {
-                "color": "red",
-                "shape": "striped"
-            }
-        ],
-        "workerid": "661825de60cb5961005070eb",
-        "horizon": 3,
-        "utt": {
-            "type": "description",
-            "feature": "blue",
-            "value": -2
-        }
-    },
-    {
-        "action_context": [
-            {
                 "color": "red",
                 "shape": "striped"
             },
@@ -2572,29 +2572,6 @@
         "utt": {
             "color": "red",
             "shape": "striped",
-            "type": "instruction"
-        }
-    },
-    {
-        "action_context": [
-            {
-                "color": "red",
-                "shape": "plain"
-            },
-            {
-                "color": "green",
-                "shape": "spotted"
-            },
-            {
-                "color": "blue",
-                "shape": "striped"
-            }
-        ],
-        "workerid": "648343299ec8050d10aee27d",
-        "horizon": 1,
-        "utt": {
-            "color": "green",
-            "shape": "spotted",
             "type": "instruction"
         }
     },
@@ -2624,23 +2601,46 @@
     {
         "action_context": [
             {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
                 "color": "blue",
-                "shape": "spotted"
+                "shape": "plain"
             },
             {
                 "color": "green",
                 "shape": "spotted"
-            },
-            {
-                "color": "red",
-                "shape": "striped"
             }
         ],
         "workerid": "648343299ec8050d10aee27d",
-        "horizon": 3,
+        "horizon": 4,
         "utt": {
-            "color": "red",
-            "shape": "striped",
+            "color": "green",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "648343299ec8050d10aee27d",
+        "horizon": 2,
+        "utt": {
+            "color": "green",
+            "shape": "plain",
             "type": "instruction"
         }
     },

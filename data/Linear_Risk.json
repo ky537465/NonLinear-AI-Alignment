@@ -1,0 +1,7822 @@
+[
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "blue",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "65ee850728573de39350fb5c",
+        "horizon": 1,
+        "utt": {
+            "color": "green",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "65ee850728573de39350fb5c",
+        "horizon": 2,
+        "utt": {
+            "type": "description",
+            "feature": "blue",
+            "value": 1
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "blue",
+                "shape": "spotted"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "red",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "65ee850728573de39350fb5c",
+        "horizon": 3,
+        "utt": {
+            "color": "blue",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            }
+        ],
+        "workerid": "65ee850728573de39350fb5c",
+        "horizon": 4,
+        "utt": {
+            "color": "green",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "blue",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "662fbbb09df8c531264c6368",
+        "horizon": 1,
+        "utt": {
+            "type": "description",
+            "feature": "striped",
+            "value": 0
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "662fbbb09df8c531264c6368",
+        "horizon": 2,
+        "utt": {
+            "color": "green",
+            "shape": "plain",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "blue",
+                "shape": "spotted"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "red",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "662fbbb09df8c531264c6368",
+        "horizon": 3,
+        "utt": {
+            "color": "blue",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            }
+        ],
+        "workerid": "662fbbb09df8c531264c6368",
+        "horizon": 4,
+        "utt": {
+            "color": "green",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "blue",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "60e8f844c22d69759bcdb969",
+        "horizon": 1,
+        "utt": {
+            "type": "description",
+            "feature": "plain",
+            "value": 1
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "60e8f844c22d69759bcdb969",
+        "horizon": 2,
+        "utt": {
+            "color": "green",
+            "shape": "plain",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "blue",
+                "shape": "spotted"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "red",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "60e8f844c22d69759bcdb969",
+        "horizon": 3,
+        "utt": {
+            "color": "red",
+            "shape": "striped",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            }
+        ],
+        "workerid": "60e8f844c22d69759bcdb969",
+        "horizon": 4,
+        "utt": {
+            "color": "green",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "blue",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "66464430fa126122adb5afd7",
+        "horizon": 1,
+        "utt": {
+            "type": "description",
+            "feature": "plain",
+            "value": -2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "66464430fa126122adb5afd7",
+        "horizon": 2,
+        "utt": {
+            "color": "red",
+            "shape": "striped",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "blue",
+                "shape": "spotted"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "red",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "66464430fa126122adb5afd7",
+        "horizon": 3,
+        "utt": {
+            "color": "blue",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            }
+        ],
+        "workerid": "66464430fa126122adb5afd7",
+        "horizon": 4,
+        "utt": {
+            "color": "green",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "blue",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "66472a03650f9441b8f815d9",
+        "horizon": 1,
+        "utt": {
+            "type": "description",
+            "feature": "blue",
+            "value": -2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "66472a03650f9441b8f815d9",
+        "horizon": 2,
+        "utt": {
+            "color": "green",
+            "shape": "plain",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "blue",
+                "shape": "spotted"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "red",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "66472a03650f9441b8f815d9",
+        "horizon": 3,
+        "utt": {
+            "color": "red",
+            "shape": "striped",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            }
+        ],
+        "workerid": "66472a03650f9441b8f815d9",
+        "horizon": 4,
+        "utt": {
+            "color": "green",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "blue",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "5f5d25e5b17ec4562931508f",
+        "horizon": 1,
+        "utt": {
+            "color": "green",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "5f5d25e5b17ec4562931508f",
+        "horizon": 2,
+        "utt": {
+            "type": "description",
+            "feature": "red",
+            "value": -2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "blue",
+                "shape": "spotted"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "red",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "5f5d25e5b17ec4562931508f",
+        "horizon": 3,
+        "utt": {
+            "type": "description",
+            "feature": "spotted",
+            "value": 2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            }
+        ],
+        "workerid": "5f5d25e5b17ec4562931508f",
+        "horizon": 4,
+        "utt": {
+            "type": "description",
+            "feature": "spotted",
+            "value": 2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "blue",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "61005a9bfd2f14f18ef7ec7d",
+        "horizon": 1,
+        "utt": {
+            "color": "green",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "61005a9bfd2f14f18ef7ec7d",
+        "horizon": 2,
+        "utt": {
+            "color": "green",
+            "shape": "plain",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "blue",
+                "shape": "spotted"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "red",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "61005a9bfd2f14f18ef7ec7d",
+        "horizon": 3,
+        "utt": {
+            "color": "green",
+            "shape": "plain",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            }
+        ],
+        "workerid": "61005a9bfd2f14f18ef7ec7d",
+        "horizon": 4,
+        "utt": {
+            "color": "green",
+            "shape": "plain",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "blue",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "664c9c1485557ed7abb000b2",
+        "horizon": 1,
+        "utt": {
+            "color": "green",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "664c9c1485557ed7abb000b2",
+        "horizon": 2,
+        "utt": {
+            "color": "red",
+            "shape": "striped",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "blue",
+                "shape": "spotted"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "red",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "664c9c1485557ed7abb000b2",
+        "horizon": 3,
+        "utt": {
+            "color": "blue",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            }
+        ],
+        "workerid": "664c9c1485557ed7abb000b2",
+        "horizon": 4,
+        "utt": {
+            "color": "green",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "blue",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "66463b51bfb8084f4f45b602",
+        "horizon": 1,
+        "utt": {
+            "color": "red",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "66463b51bfb8084f4f45b602",
+        "horizon": 2,
+        "utt": {
+            "type": "description",
+            "feature": "plain",
+            "value": -2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "blue",
+                "shape": "spotted"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "red",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "66463b51bfb8084f4f45b602",
+        "horizon": 3,
+        "utt": {
+            "type": "description",
+            "feature": "spotted",
+            "value": 2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            }
+        ],
+        "workerid": "66463b51bfb8084f4f45b602",
+        "horizon": 4,
+        "utt": {
+            "type": "description",
+            "feature": "spotted",
+            "value": 2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "blue",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "6641a4465118812c21972666",
+        "horizon": 1,
+        "utt": {
+            "color": "green",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "6641a4465118812c21972666",
+        "horizon": 2,
+        "utt": {
+            "color": "green",
+            "shape": "plain",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "blue",
+                "shape": "spotted"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "red",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "6641a4465118812c21972666",
+        "horizon": 3,
+        "utt": {
+            "color": "blue",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            }
+        ],
+        "workerid": "6641a4465118812c21972666",
+        "horizon": 4,
+        "utt": {
+            "color": "green",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "blue",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "6645f38dace4bab85fbbe4f8",
+        "horizon": 1,
+        "utt": {
+            "color": "green",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "6645f38dace4bab85fbbe4f8",
+        "horizon": 2,
+        "utt": {
+            "type": "description",
+            "feature": "plain",
+            "value": -2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "blue",
+                "shape": "spotted"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "red",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "6645f38dace4bab85fbbe4f8",
+        "horizon": 3,
+        "utt": {
+            "type": "description",
+            "feature": "spotted",
+            "value": 2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            }
+        ],
+        "workerid": "6645f38dace4bab85fbbe4f8",
+        "horizon": 4,
+        "utt": {
+            "type": "description",
+            "feature": "spotted",
+            "value": 2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "blue",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "6543b2b03111d7747bdaed37",
+        "horizon": 1,
+        "utt": {
+            "color": "green",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "6543b2b03111d7747bdaed37",
+        "horizon": 2,
+        "utt": {
+            "color": "green",
+            "shape": "plain",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "blue",
+                "shape": "spotted"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "red",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "6543b2b03111d7747bdaed37",
+        "horizon": 3,
+        "utt": {
+            "color": "blue",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            }
+        ],
+        "workerid": "6543b2b03111d7747bdaed37",
+        "horizon": 4,
+        "utt": {
+            "color": "green",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "blue",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "6100c3f0a1cd16bb87069625",
+        "horizon": 1,
+        "utt": {
+            "color": "red",
+            "shape": "plain",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "6100c3f0a1cd16bb87069625",
+        "horizon": 2,
+        "utt": {
+            "color": "green",
+            "shape": "plain",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "blue",
+                "shape": "spotted"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "red",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "6100c3f0a1cd16bb87069625",
+        "horizon": 3,
+        "utt": {
+            "type": "description",
+            "feature": "red",
+            "value": 0
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            }
+        ],
+        "workerid": "6100c3f0a1cd16bb87069625",
+        "horizon": 4,
+        "utt": {
+            "type": "description",
+            "feature": "green",
+            "value": 2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "blue",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "664cb4bf84d92151ae333a66",
+        "horizon": 1,
+        "utt": {
+            "color": "green",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "664cb4bf84d92151ae333a66",
+        "horizon": 2,
+        "utt": {
+            "type": "description",
+            "feature": "plain",
+            "value": -2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "blue",
+                "shape": "spotted"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "red",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "664cb4bf84d92151ae333a66",
+        "horizon": 3,
+        "utt": {
+            "color": "blue",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            }
+        ],
+        "workerid": "664cb4bf84d92151ae333a66",
+        "horizon": 4,
+        "utt": {
+            "type": "description",
+            "feature": "spotted",
+            "value": 2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "blue",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "6228f5900f303f54ca6ab186",
+        "horizon": 1,
+        "utt": {
+            "type": "description",
+            "feature": "blue",
+            "value": -2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "6228f5900f303f54ca6ab186",
+        "horizon": 2,
+        "utt": {
+            "color": "green",
+            "shape": "plain",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "blue",
+                "shape": "spotted"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "red",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "6228f5900f303f54ca6ab186",
+        "horizon": 3,
+        "utt": {
+            "color": "green",
+            "shape": "striped",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            }
+        ],
+        "workerid": "6228f5900f303f54ca6ab186",
+        "horizon": 4,
+        "utt": {
+            "type": "description",
+            "feature": "blue",
+            "value": -2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "blue",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "6561fe992ee7c9362b2a2044",
+        "horizon": 1,
+        "utt": {
+            "color": "red",
+            "shape": "plain",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "6561fe992ee7c9362b2a2044",
+        "horizon": 2,
+        "utt": {
+            "color": "green",
+            "shape": "plain",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "blue",
+                "shape": "spotted"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "red",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "6561fe992ee7c9362b2a2044",
+        "horizon": 3,
+        "utt": {
+            "type": "description",
+            "feature": "plain",
+            "value": 1
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            }
+        ],
+        "workerid": "6561fe992ee7c9362b2a2044",
+        "horizon": 4,
+        "utt": {
+            "type": "description",
+            "feature": "blue",
+            "value": -2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "blue",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "664cc65115820e48a765dd1f",
+        "horizon": 1,
+        "utt": {
+            "color": "blue",
+            "shape": "striped",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "664cc65115820e48a765dd1f",
+        "horizon": 2,
+        "utt": {
+            "type": "description",
+            "feature": "plain",
+            "value": -2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "blue",
+                "shape": "spotted"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "red",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "664cc65115820e48a765dd1f",
+        "horizon": 3,
+        "utt": {
+            "type": "description",
+            "feature": "spotted",
+            "value": 2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            }
+        ],
+        "workerid": "664cc65115820e48a765dd1f",
+        "horizon": 4,
+        "utt": {
+            "type": "description",
+            "feature": "spotted",
+            "value": 2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "blue",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "5dd7df0541fb3f77aee1a608",
+        "horizon": 1,
+        "utt": {
+            "color": "green",
+            "shape": "plain",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "5dd7df0541fb3f77aee1a608",
+        "horizon": 2,
+        "utt": {
+            "color": "green",
+            "shape": "plain",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "blue",
+                "shape": "spotted"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "red",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "5dd7df0541fb3f77aee1a608",
+        "horizon": 3,
+        "utt": {
+            "color": "green",
+            "shape": "plain",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            }
+        ],
+        "workerid": "5dd7df0541fb3f77aee1a608",
+        "horizon": 4,
+        "utt": {
+            "color": "green",
+            "shape": "plain",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "blue",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "5aaa235255be420001de9131",
+        "horizon": 1,
+        "utt": {
+            "type": "description",
+            "feature": "blue",
+            "value": -2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "5aaa235255be420001de9131",
+        "horizon": 2,
+        "utt": {
+            "color": "red",
+            "shape": "plain",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "blue",
+                "shape": "spotted"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "red",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "5aaa235255be420001de9131",
+        "horizon": 3,
+        "utt": {
+            "color": "red",
+            "shape": "striped",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            }
+        ],
+        "workerid": "5aaa235255be420001de9131",
+        "horizon": 4,
+        "utt": {
+            "color": "green",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "blue",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "6610110d3f57ce1f0df6c6a2",
+        "horizon": 1,
+        "utt": {
+            "color": "red",
+            "shape": "plain",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "6610110d3f57ce1f0df6c6a2",
+        "horizon": 2,
+        "utt": {
+            "type": "description",
+            "feature": "green",
+            "value": 2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "blue",
+                "shape": "spotted"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "red",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "6610110d3f57ce1f0df6c6a2",
+        "horizon": 3,
+        "utt": {
+            "type": "description",
+            "feature": "green",
+            "value": 2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            }
+        ],
+        "workerid": "6610110d3f57ce1f0df6c6a2",
+        "horizon": 4,
+        "utt": {
+            "color": "green",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "blue",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "644e91f48e0afefe11d00e00",
+        "horizon": 1,
+        "utt": {
+            "color": "red",
+            "shape": "plain",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "644e91f48e0afefe11d00e00",
+        "horizon": 2,
+        "utt": {
+            "color": "green",
+            "shape": "plain",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "blue",
+                "shape": "spotted"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "red",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "644e91f48e0afefe11d00e00",
+        "horizon": 3,
+        "utt": {
+            "type": "description",
+            "feature": "blue",
+            "value": -2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            }
+        ],
+        "workerid": "644e91f48e0afefe11d00e00",
+        "horizon": 4,
+        "utt": {
+            "type": "description",
+            "feature": "blue",
+            "value": -2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "blue",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "5e79b84d4633bc575ddb3812",
+        "horizon": 1,
+        "utt": {
+            "color": "green",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "5e79b84d4633bc575ddb3812",
+        "horizon": 2,
+        "utt": {
+            "color": "red",
+            "shape": "striped",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "blue",
+                "shape": "spotted"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "red",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "5e79b84d4633bc575ddb3812",
+        "horizon": 3,
+        "utt": {
+            "type": "description",
+            "feature": "spotted",
+            "value": 2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            }
+        ],
+        "workerid": "5e79b84d4633bc575ddb3812",
+        "horizon": 4,
+        "utt": {
+            "type": "description",
+            "feature": "striped",
+            "value": 0
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "blue",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "664c4e829445321c23a8de52",
+        "horizon": 1,
+        "utt": {
+            "type": "description",
+            "feature": "plain",
+            "value": -2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "664c4e829445321c23a8de52",
+        "horizon": 2,
+        "utt": {
+            "color": "red",
+            "shape": "striped",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "blue",
+                "shape": "spotted"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "red",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "664c4e829445321c23a8de52",
+        "horizon": 3,
+        "utt": {
+            "color": "blue",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            }
+        ],
+        "workerid": "664c4e829445321c23a8de52",
+        "horizon": 4,
+        "utt": {
+            "color": "green",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "blue",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "5eebe4e6e61002183aec9b70",
+        "horizon": 1,
+        "utt": {
+            "color": "blue",
+            "shape": "striped",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "5eebe4e6e61002183aec9b70",
+        "horizon": 2,
+        "utt": {
+            "type": "description",
+            "feature": "plain",
+            "value": -2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "blue",
+                "shape": "spotted"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "red",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "5eebe4e6e61002183aec9b70",
+        "horizon": 3,
+        "utt": {
+            "color": "blue",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            }
+        ],
+        "workerid": "5eebe4e6e61002183aec9b70",
+        "horizon": 4,
+        "utt": {
+            "color": "green",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "blue",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "6647b9d85e49c207ba28f76f",
+        "horizon": 1,
+        "utt": {
+            "type": "description",
+            "feature": "blue",
+            "value": -2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "6647b9d85e49c207ba28f76f",
+        "horizon": 2,
+        "utt": {
+            "type": "description",
+            "feature": "red",
+            "value": -2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "blue",
+                "shape": "spotted"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "red",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "6647b9d85e49c207ba28f76f",
+        "horizon": 3,
+        "utt": {
+            "type": "description",
+            "feature": "green",
+            "value": -2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            }
+        ],
+        "workerid": "6647b9d85e49c207ba28f76f",
+        "horizon": 4,
+        "utt": {
+            "type": "description",
+            "feature": "blue",
+            "value": -2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "blue",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "660ef8d5ad9e783ecf95771d",
+        "horizon": 1,
+        "utt": {
+            "color": "green",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "660ef8d5ad9e783ecf95771d",
+        "horizon": 2,
+        "utt": {
+            "type": "description",
+            "feature": "spotted",
+            "value": 2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "blue",
+                "shape": "spotted"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "red",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "660ef8d5ad9e783ecf95771d",
+        "horizon": 3,
+        "utt": {
+            "color": "blue",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            }
+        ],
+        "workerid": "660ef8d5ad9e783ecf95771d",
+        "horizon": 4,
+        "utt": {
+            "type": "description",
+            "feature": "spotted",
+            "value": 2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "blue",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "58c1d1fb8a3f870001c0e34c",
+        "horizon": 1,
+        "utt": {
+            "color": "green",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "58c1d1fb8a3f870001c0e34c",
+        "horizon": 2,
+        "utt": {
+            "type": "description",
+            "feature": "plain",
+            "value": -2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "blue",
+                "shape": "spotted"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "red",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "58c1d1fb8a3f870001c0e34c",
+        "horizon": 3,
+        "utt": {
+            "type": "description",
+            "feature": "green",
+            "value": -2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            }
+        ],
+        "workerid": "58c1d1fb8a3f870001c0e34c",
+        "horizon": 4,
+        "utt": {
+            "type": "description",
+            "feature": "striped",
+            "value": -2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "blue",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "5f58fa9f43f1b20c9761ed64",
+        "horizon": 1,
+        "utt": {
+            "color": "green",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "5f58fa9f43f1b20c9761ed64",
+        "horizon": 2,
+        "utt": {
+            "type": "description",
+            "feature": "blue",
+            "value": 1
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "blue",
+                "shape": "spotted"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "red",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "5f58fa9f43f1b20c9761ed64",
+        "horizon": 3,
+        "utt": {
+            "type": "description",
+            "feature": "blue",
+            "value": 2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            }
+        ],
+        "workerid": "5f58fa9f43f1b20c9761ed64",
+        "horizon": 4,
+        "utt": {
+            "color": "green",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "blue",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "63d80e0449b458dd5f8140be",
+        "horizon": 1,
+        "utt": {
+            "color": "red",
+            "shape": "plain",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "63d80e0449b458dd5f8140be",
+        "horizon": 2,
+        "utt": {
+            "color": "green",
+            "shape": "plain",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "blue",
+                "shape": "spotted"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "red",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "63d80e0449b458dd5f8140be",
+        "horizon": 3,
+        "utt": {
+            "color": "red",
+            "shape": "striped",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            }
+        ],
+        "workerid": "63d80e0449b458dd5f8140be",
+        "horizon": 4,
+        "utt": {
+            "color": "green",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "blue",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "65cd28bc2a3ceca2b3cf2085",
+        "horizon": 1,
+        "utt": {
+            "type": "description",
+            "feature": "blue",
+            "value": -2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "65cd28bc2a3ceca2b3cf2085",
+        "horizon": 2,
+        "utt": {
+            "color": "green",
+            "shape": "plain",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "blue",
+                "shape": "spotted"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "red",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "65cd28bc2a3ceca2b3cf2085",
+        "horizon": 3,
+        "utt": {
+            "color": "green",
+            "shape": "plain",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            }
+        ],
+        "workerid": "65cd28bc2a3ceca2b3cf2085",
+        "horizon": 4,
+        "utt": {
+            "type": "description",
+            "feature": "green",
+            "value": 2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "blue",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "6631090c0cfe3573310128b2",
+        "horizon": 1,
+        "utt": {
+            "type": "description",
+            "feature": "plain",
+            "value": 0
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "6631090c0cfe3573310128b2",
+        "horizon": 2,
+        "utt": {
+            "color": "blue",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "blue",
+                "shape": "spotted"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "red",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "6631090c0cfe3573310128b2",
+        "horizon": 3,
+        "utt": {
+            "color": "blue",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            }
+        ],
+        "workerid": "6631090c0cfe3573310128b2",
+        "horizon": 4,
+        "utt": {
+            "type": "description",
+            "feature": "spotted",
+            "value": 2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "blue",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "5c044aa9a2fe070001990a32",
+        "horizon": 1,
+        "utt": {
+            "type": "description",
+            "feature": "blue",
+            "value": -2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "5c044aa9a2fe070001990a32",
+        "horizon": 2,
+        "utt": {
+            "type": "description",
+            "feature": "green",
+            "value": 2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "blue",
+                "shape": "spotted"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "red",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "5c044aa9a2fe070001990a32",
+        "horizon": 3,
+        "utt": {
+            "color": "red",
+            "shape": "plain",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            }
+        ],
+        "workerid": "5c044aa9a2fe070001990a32",
+        "horizon": 4,
+        "utt": {
+            "color": "green",
+            "shape": "plain",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "blue",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "6168e3efc08671bd92f7fd37",
+        "horizon": 1,
+        "utt": {
+            "type": "description",
+            "feature": "blue",
+            "value": -2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "6168e3efc08671bd92f7fd37",
+        "horizon": 2,
+        "utt": {
+            "type": "description",
+            "feature": "green",
+            "value": 2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "blue",
+                "shape": "spotted"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "red",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "6168e3efc08671bd92f7fd37",
+        "horizon": 3,
+        "utt": {
+            "type": "description",
+            "feature": "striped",
+            "value": 0
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            }
+        ],
+        "workerid": "6168e3efc08671bd92f7fd37",
+        "horizon": 4,
+        "utt": {
+            "type": "description",
+            "feature": "green",
+            "value": 2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "blue",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "5a08f625fe645f0001e9f087",
+        "horizon": 1,
+        "utt": {
+            "color": "blue",
+            "shape": "striped",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "5a08f625fe645f0001e9f087",
+        "horizon": 2,
+        "utt": {
+            "type": "description",
+            "feature": "spotted",
+            "value": 2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "blue",
+                "shape": "spotted"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "red",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "5a08f625fe645f0001e9f087",
+        "horizon": 3,
+        "utt": {
+            "type": "description",
+            "feature": "spotted",
+            "value": 2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            }
+        ],
+        "workerid": "5a08f625fe645f0001e9f087",
+        "horizon": 4,
+        "utt": {
+            "type": "description",
+            "feature": "spotted",
+            "value": 2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "blue",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "66438d2064e4abfff5abc4ec",
+        "horizon": 1,
+        "utt": {
+            "color": "blue",
+            "shape": "plain",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "66438d2064e4abfff5abc4ec",
+        "horizon": 2,
+        "utt": {
+            "type": "description",
+            "feature": "green",
+            "value": 2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "blue",
+                "shape": "spotted"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "red",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "66438d2064e4abfff5abc4ec",
+        "horizon": 3,
+        "utt": {
+            "type": "description",
+            "feature": "blue",
+            "value": -2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            }
+        ],
+        "workerid": "66438d2064e4abfff5abc4ec",
+        "horizon": 4,
+        "utt": {
+            "color": "green",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "blue",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "65aa81f29548a98c1054db76",
+        "horizon": 1,
+        "utt": {
+            "color": "red",
+            "shape": "plain",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "65aa81f29548a98c1054db76",
+        "horizon": 2,
+        "utt": {
+            "type": "description",
+            "feature": "spotted",
+            "value": -1
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "blue",
+                "shape": "spotted"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "red",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "65aa81f29548a98c1054db76",
+        "horizon": 3,
+        "utt": {
+            "type": "description",
+            "feature": "striped",
+            "value": 0
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            }
+        ],
+        "workerid": "65aa81f29548a98c1054db76",
+        "horizon": 4,
+        "utt": {
+            "type": "description",
+            "feature": "blue",
+            "value": -2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "blue",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "6598942c3d07928cc188ffdb",
+        "horizon": 1,
+        "utt": {
+            "type": "description",
+            "feature": "green",
+            "value": 2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "6598942c3d07928cc188ffdb",
+        "horizon": 2,
+        "utt": {
+            "type": "description",
+            "feature": "green",
+            "value": 2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "blue",
+                "shape": "spotted"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "red",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "6598942c3d07928cc188ffdb",
+        "horizon": 3,
+        "utt": {
+            "color": "red",
+            "shape": "striped",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            }
+        ],
+        "workerid": "6598942c3d07928cc188ffdb",
+        "horizon": 4,
+        "utt": {
+            "type": "description",
+            "feature": "green",
+            "value": 2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "blue",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "5c1a9424a329230001ecaabd",
+        "horizon": 1,
+        "utt": {
+            "color": "green",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "5c1a9424a329230001ecaabd",
+        "horizon": 2,
+        "utt": {
+            "type": "description",
+            "feature": "green",
+            "value": 2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "blue",
+                "shape": "spotted"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "red",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "5c1a9424a329230001ecaabd",
+        "horizon": 3,
+        "utt": {
+            "type": "description",
+            "feature": "plain",
+            "value": 1
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            }
+        ],
+        "workerid": "5c1a9424a329230001ecaabd",
+        "horizon": 4,
+        "utt": {
+            "type": "description",
+            "feature": "green",
+            "value": 2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "blue",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "6643bcf1ee723e90ec8969ef",
+        "horizon": 1,
+        "utt": {
+            "type": "description",
+            "feature": "spotted",
+            "value": -1
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "6643bcf1ee723e90ec8969ef",
+        "horizon": 2,
+        "utt": {
+            "color": "green",
+            "shape": "plain",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "blue",
+                "shape": "spotted"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "red",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "6643bcf1ee723e90ec8969ef",
+        "horizon": 3,
+        "utt": {
+            "type": "description",
+            "feature": "spotted",
+            "value": -1
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            }
+        ],
+        "workerid": "6643bcf1ee723e90ec8969ef",
+        "horizon": 4,
+        "utt": {
+            "color": "green",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "blue",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "6537f71dc93da63fa5d5a3cb",
+        "horizon": 1,
+        "utt": {
+            "type": "description",
+            "feature": "striped",
+            "value": 0
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "6537f71dc93da63fa5d5a3cb",
+        "horizon": 2,
+        "utt": {
+            "type": "description",
+            "feature": "striped",
+            "value": 0
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "blue",
+                "shape": "spotted"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "red",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "6537f71dc93da63fa5d5a3cb",
+        "horizon": 3,
+        "utt": {
+            "type": "description",
+            "feature": "spotted",
+            "value": 2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            }
+        ],
+        "workerid": "6537f71dc93da63fa5d5a3cb",
+        "horizon": 4,
+        "utt": {
+            "type": "description",
+            "feature": "spotted",
+            "value": 2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "blue",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "65cb6d6ef9cc8ce9042143e7",
+        "horizon": 1,
+        "utt": {
+            "color": "green",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "65cb6d6ef9cc8ce9042143e7",
+        "horizon": 2,
+        "utt": {
+            "type": "description",
+            "feature": "red",
+            "value": -2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "blue",
+                "shape": "spotted"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "red",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "65cb6d6ef9cc8ce9042143e7",
+        "horizon": 3,
+        "utt": {
+            "type": "description",
+            "feature": "striped",
+            "value": -2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            }
+        ],
+        "workerid": "65cb6d6ef9cc8ce9042143e7",
+        "horizon": 4,
+        "utt": {
+            "type": "description",
+            "feature": "striped",
+            "value": -2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "blue",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "5bbe6691ba8d7d0001951ef9",
+        "horizon": 1,
+        "utt": {
+            "color": "blue",
+            "shape": "striped",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "5bbe6691ba8d7d0001951ef9",
+        "horizon": 2,
+        "utt": {
+            "type": "description",
+            "feature": "plain",
+            "value": -2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "blue",
+                "shape": "spotted"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "red",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "5bbe6691ba8d7d0001951ef9",
+        "horizon": 3,
+        "utt": {
+            "color": "blue",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            }
+        ],
+        "workerid": "5bbe6691ba8d7d0001951ef9",
+        "horizon": 4,
+        "utt": {
+            "type": "description",
+            "feature": "striped",
+            "value": -2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "blue",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "664a0847f07bf8407f4aeeb9",
+        "horizon": 1,
+        "utt": {
+            "type": "description",
+            "feature": "green",
+            "value": 2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "664a0847f07bf8407f4aeeb9",
+        "horizon": 2,
+        "utt": {
+            "type": "description",
+            "feature": "green",
+            "value": 2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "blue",
+                "shape": "spotted"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "red",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "664a0847f07bf8407f4aeeb9",
+        "horizon": 3,
+        "utt": {
+            "type": "description",
+            "feature": "plain",
+            "value": 1
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            }
+        ],
+        "workerid": "664a0847f07bf8407f4aeeb9",
+        "horizon": 4,
+        "utt": {
+            "type": "description",
+            "feature": "green",
+            "value": 2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "blue",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "6643a21a88d5845e4a6b8704",
+        "horizon": 1,
+        "utt": {
+            "color": "red",
+            "shape": "plain",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "6643a21a88d5845e4a6b8704",
+        "horizon": 2,
+        "utt": {
+            "type": "description",
+            "feature": "red",
+            "value": 0
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "blue",
+                "shape": "spotted"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "red",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "6643a21a88d5845e4a6b8704",
+        "horizon": 3,
+        "utt": {
+            "type": "description",
+            "feature": "spotted",
+            "value": -1
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            }
+        ],
+        "workerid": "6643a21a88d5845e4a6b8704",
+        "horizon": 4,
+        "utt": {
+            "type": "description",
+            "feature": "blue",
+            "value": -2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "blue",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "657a0b90f74df15ba94f1d5a",
+        "horizon": 1,
+        "utt": {
+            "color": "green",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "657a0b90f74df15ba94f1d5a",
+        "horizon": 2,
+        "utt": {
+            "color": "green",
+            "shape": "plain",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "blue",
+                "shape": "spotted"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "red",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "657a0b90f74df15ba94f1d5a",
+        "horizon": 3,
+        "utt": {
+            "color": "red",
+            "shape": "striped",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            }
+        ],
+        "workerid": "657a0b90f74df15ba94f1d5a",
+        "horizon": 4,
+        "utt": {
+            "color": "green",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "blue",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "614f2de48a5fdf9347f1cd4e",
+        "horizon": 1,
+        "utt": {
+            "type": "description",
+            "feature": "plain",
+            "value": 1
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "614f2de48a5fdf9347f1cd4e",
+        "horizon": 2,
+        "utt": {
+            "color": "green",
+            "shape": "plain",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "blue",
+                "shape": "spotted"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "red",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "614f2de48a5fdf9347f1cd4e",
+        "horizon": 3,
+        "utt": {
+            "color": "green",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            }
+        ],
+        "workerid": "614f2de48a5fdf9347f1cd4e",
+        "horizon": 4,
+        "utt": {
+            "type": "description",
+            "feature": "plain",
+            "value": 1
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "blue",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "64691ca0268f0a4606800d33",
+        "horizon": 1,
+        "utt": {
+            "type": "description",
+            "feature": "spotted",
+            "value": -2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "64691ca0268f0a4606800d33",
+        "horizon": 2,
+        "utt": {
+            "type": "description",
+            "feature": "green",
+            "value": 2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "blue",
+                "shape": "spotted"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "red",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "64691ca0268f0a4606800d33",
+        "horizon": 3,
+        "utt": {
+            "type": "description",
+            "feature": "plain",
+            "value": 1
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            }
+        ],
+        "workerid": "64691ca0268f0a4606800d33",
+        "horizon": 4,
+        "utt": {
+            "type": "description",
+            "feature": "blue",
+            "value": -2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "blue",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "5ceff2032de4e90015c822c4",
+        "horizon": 1,
+        "utt": {
+            "color": "green",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "5ceff2032de4e90015c822c4",
+        "horizon": 2,
+        "utt": {
+            "type": "description",
+            "feature": "plain",
+            "value": -2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "blue",
+                "shape": "spotted"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "red",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "5ceff2032de4e90015c822c4",
+        "horizon": 3,
+        "utt": {
+            "type": "description",
+            "feature": "striped",
+            "value": -1
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            }
+        ],
+        "workerid": "5ceff2032de4e90015c822c4",
+        "horizon": 4,
+        "utt": {
+            "color": "green",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "blue",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "663d12e37da452b250292c1b",
+        "horizon": 1,
+        "utt": {
+            "color": "blue",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "663d12e37da452b250292c1b",
+        "horizon": 2,
+        "utt": {
+            "color": "blue",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "blue",
+                "shape": "spotted"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "red",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "663d12e37da452b250292c1b",
+        "horizon": 3,
+        "utt": {
+            "color": "blue",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            }
+        ],
+        "workerid": "663d12e37da452b250292c1b",
+        "horizon": 4,
+        "utt": {
+            "color": "blue",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "blue",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "66266dd55403eb09f9fc01a5",
+        "horizon": 1,
+        "utt": {
+            "color": "green",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "66266dd55403eb09f9fc01a5",
+        "horizon": 2,
+        "utt": {
+            "color": "green",
+            "shape": "plain",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "blue",
+                "shape": "spotted"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "red",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "66266dd55403eb09f9fc01a5",
+        "horizon": 3,
+        "utt": {
+            "color": "green",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            }
+        ],
+        "workerid": "66266dd55403eb09f9fc01a5",
+        "horizon": 4,
+        "utt": {
+            "color": "green",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "blue",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "5bb91c132e2fe50001be0d08",
+        "horizon": 1,
+        "utt": {
+            "color": "green",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "5bb91c132e2fe50001be0d08",
+        "horizon": 2,
+        "utt": {
+            "color": "red",
+            "shape": "striped",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "blue",
+                "shape": "spotted"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "red",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "5bb91c132e2fe50001be0d08",
+        "horizon": 3,
+        "utt": {
+            "color": "blue",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            }
+        ],
+        "workerid": "5bb91c132e2fe50001be0d08",
+        "horizon": 4,
+        "utt": {
+            "color": "green",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "blue",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "631f4cf4e1195788480db63b",
+        "horizon": 1,
+        "utt": {
+            "type": "description",
+            "feature": "spotted",
+            "value": -2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "631f4cf4e1195788480db63b",
+        "horizon": 2,
+        "utt": {
+            "type": "description",
+            "feature": "plain",
+            "value": -2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "blue",
+                "shape": "spotted"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "red",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "631f4cf4e1195788480db63b",
+        "horizon": 3,
+        "utt": {
+            "type": "description",
+            "feature": "striped",
+            "value": 2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            }
+        ],
+        "workerid": "631f4cf4e1195788480db63b",
+        "horizon": 4,
+        "utt": {
+            "color": "green",
+            "shape": "plain",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "blue",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "655c1c7fe949a617a358ad37",
+        "horizon": 1,
+        "utt": {
+            "color": "green",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "655c1c7fe949a617a358ad37",
+        "horizon": 2,
+        "utt": {
+            "color": "red",
+            "shape": "striped",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "blue",
+                "shape": "spotted"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "red",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "655c1c7fe949a617a358ad37",
+        "horizon": 3,
+        "utt": {
+            "type": "description",
+            "feature": "spotted",
+            "value": 2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            }
+        ],
+        "workerid": "655c1c7fe949a617a358ad37",
+        "horizon": 4,
+        "utt": {
+            "color": "red",
+            "shape": "striped",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "blue",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "55ac22cafdf99b6de2fa7ee2",
+        "horizon": 1,
+        "utt": {
+            "color": "green",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "55ac22cafdf99b6de2fa7ee2",
+        "horizon": 2,
+        "utt": {
+            "color": "green",
+            "shape": "plain",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "blue",
+                "shape": "spotted"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "red",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "55ac22cafdf99b6de2fa7ee2",
+        "horizon": 3,
+        "utt": {
+            "color": "green",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            }
+        ],
+        "workerid": "55ac22cafdf99b6de2fa7ee2",
+        "horizon": 4,
+        "utt": {
+            "color": "green",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "blue",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "657e3ff4df3541eb1ec0eb11",
+        "horizon": 1,
+        "utt": {
+            "color": "blue",
+            "shape": "striped",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "657e3ff4df3541eb1ec0eb11",
+        "horizon": 2,
+        "utt": {
+            "color": "red",
+            "shape": "striped",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "blue",
+                "shape": "spotted"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "red",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "657e3ff4df3541eb1ec0eb11",
+        "horizon": 3,
+        "utt": {
+            "type": "description",
+            "feature": "spotted",
+            "value": 2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            }
+        ],
+        "workerid": "657e3ff4df3541eb1ec0eb11",
+        "horizon": 4,
+        "utt": {
+            "type": "description",
+            "feature": "spotted",
+            "value": 2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "blue",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "66464b6dd7787eac6920db24",
+        "horizon": 1,
+        "utt": {
+            "color": "red",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "66464b6dd7787eac6920db24",
+        "horizon": 2,
+        "utt": {
+            "type": "description",
+            "feature": "plain",
+            "value": 1
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "blue",
+                "shape": "spotted"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "red",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "66464b6dd7787eac6920db24",
+        "horizon": 3,
+        "utt": {
+            "color": "red",
+            "shape": "plain",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            }
+        ],
+        "workerid": "66464b6dd7787eac6920db24",
+        "horizon": 4,
+        "utt": {
+            "color": "green",
+            "shape": "plain",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "blue",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "61f2ac69a09e72f23cbaf627",
+        "horizon": 1,
+        "utt": {
+            "color": "red",
+            "shape": "plain",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "61f2ac69a09e72f23cbaf627",
+        "horizon": 2,
+        "utt": {
+            "color": "green",
+            "shape": "plain",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "blue",
+                "shape": "spotted"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "red",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "61f2ac69a09e72f23cbaf627",
+        "horizon": 3,
+        "utt": {
+            "color": "green",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            }
+        ],
+        "workerid": "61f2ac69a09e72f23cbaf627",
+        "horizon": 4,
+        "utt": {
+            "color": "green",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "blue",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "64f89ef9b3a1c4b51c4996f2",
+        "horizon": 1,
+        "utt": {
+            "color": "red",
+            "shape": "plain",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "64f89ef9b3a1c4b51c4996f2",
+        "horizon": 2,
+        "utt": {
+            "type": "description",
+            "feature": "red",
+            "value": -2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "blue",
+                "shape": "spotted"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "red",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "64f89ef9b3a1c4b51c4996f2",
+        "horizon": 3,
+        "utt": {
+            "type": "description",
+            "feature": "striped",
+            "value": -2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            }
+        ],
+        "workerid": "64f89ef9b3a1c4b51c4996f2",
+        "horizon": 4,
+        "utt": {
+            "color": "green",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "blue",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "5dea96a5770a431bbed1efb2",
+        "horizon": 1,
+        "utt": {
+            "color": "green",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "5dea96a5770a431bbed1efb2",
+        "horizon": 2,
+        "utt": {
+            "color": "blue",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "blue",
+                "shape": "spotted"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "red",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "5dea96a5770a431bbed1efb2",
+        "horizon": 3,
+        "utt": {
+            "color": "blue",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            }
+        ],
+        "workerid": "5dea96a5770a431bbed1efb2",
+        "horizon": 4,
+        "utt": {
+            "color": "green",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "blue",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "66338fb1dfa77d3fd06531ad",
+        "horizon": 1,
+        "utt": {
+            "type": "description",
+            "feature": "red",
+            "value": 0
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "66338fb1dfa77d3fd06531ad",
+        "horizon": 2,
+        "utt": {
+            "type": "description",
+            "feature": "plain",
+            "value": -2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "blue",
+                "shape": "spotted"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "red",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "66338fb1dfa77d3fd06531ad",
+        "horizon": 3,
+        "utt": {
+            "type": "description",
+            "feature": "striped",
+            "value": 0
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            }
+        ],
+        "workerid": "66338fb1dfa77d3fd06531ad",
+        "horizon": 4,
+        "utt": {
+            "type": "description",
+            "feature": "blue",
+            "value": 1
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "blue",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "65abd3bc01581c2899e80591",
+        "horizon": 1,
+        "utt": {
+            "color": "red",
+            "shape": "plain",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "65abd3bc01581c2899e80591",
+        "horizon": 2,
+        "utt": {
+            "color": "green",
+            "shape": "plain",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "blue",
+                "shape": "spotted"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "red",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "65abd3bc01581c2899e80591",
+        "horizon": 3,
+        "utt": {
+            "type": "description",
+            "feature": "green",
+            "value": 2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            }
+        ],
+        "workerid": "65abd3bc01581c2899e80591",
+        "horizon": 4,
+        "utt": {
+            "color": "green",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "blue",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "6647598062fc0137ab09dbd8",
+        "horizon": 1,
+        "utt": {
+            "color": "green",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "6647598062fc0137ab09dbd8",
+        "horizon": 2,
+        "utt": {
+            "color": "red",
+            "shape": "striped",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "blue",
+                "shape": "spotted"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "red",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "6647598062fc0137ab09dbd8",
+        "horizon": 3,
+        "utt": {
+            "color": "blue",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            }
+        ],
+        "workerid": "6647598062fc0137ab09dbd8",
+        "horizon": 4,
+        "utt": {
+            "color": "green",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "blue",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "5fdf213eeae543727a6624e3",
+        "horizon": 1,
+        "utt": {
+            "type": "description",
+            "feature": "blue",
+            "value": -2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "5fdf213eeae543727a6624e3",
+        "horizon": 2,
+        "utt": {
+            "type": "description",
+            "feature": "plain",
+            "value": -2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "blue",
+                "shape": "spotted"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "red",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "5fdf213eeae543727a6624e3",
+        "horizon": 3,
+        "utt": {
+            "type": "description",
+            "feature": "green",
+            "value": -2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            }
+        ],
+        "workerid": "5fdf213eeae543727a6624e3",
+        "horizon": 4,
+        "utt": {
+            "type": "description",
+            "feature": "striped",
+            "value": -2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "blue",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "5d9d5e2e43c6e300159417ae",
+        "horizon": 1,
+        "utt": {
+            "type": "description",
+            "feature": "plain",
+            "value": 1
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "5d9d5e2e43c6e300159417ae",
+        "horizon": 2,
+        "utt": {
+            "color": "green",
+            "shape": "plain",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "blue",
+                "shape": "spotted"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "red",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "5d9d5e2e43c6e300159417ae",
+        "horizon": 3,
+        "utt": {
+            "color": "green",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            }
+        ],
+        "workerid": "5d9d5e2e43c6e300159417ae",
+        "horizon": 4,
+        "utt": {
+            "color": "green",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "blue",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "59a4b7e0c9281e0001c1bc8f",
+        "horizon": 1,
+        "utt": {
+            "color": "green",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "59a4b7e0c9281e0001c1bc8f",
+        "horizon": 2,
+        "utt": {
+            "color": "red",
+            "shape": "striped",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "blue",
+                "shape": "spotted"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "red",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "59a4b7e0c9281e0001c1bc8f",
+        "horizon": 3,
+        "utt": {
+            "color": "blue",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            }
+        ],
+        "workerid": "59a4b7e0c9281e0001c1bc8f",
+        "horizon": 4,
+        "utt": {
+            "color": "red",
+            "shape": "striped",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "blue",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "664a64a4fdf6e24a685290ee",
+        "horizon": 1,
+        "utt": {
+            "color": "green",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "664a64a4fdf6e24a685290ee",
+        "horizon": 2,
+        "utt": {
+            "color": "green",
+            "shape": "plain",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "blue",
+                "shape": "spotted"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "red",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "664a64a4fdf6e24a685290ee",
+        "horizon": 3,
+        "utt": {
+            "color": "green",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            }
+        ],
+        "workerid": "664a64a4fdf6e24a685290ee",
+        "horizon": 4,
+        "utt": {
+            "color": "green",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "blue",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "56189fff7d110000113b96ac",
+        "horizon": 1,
+        "utt": {
+            "color": "green",
+            "shape": "plain",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "56189fff7d110000113b96ac",
+        "horizon": 2,
+        "utt": {
+            "color": "green",
+            "shape": "plain",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "blue",
+                "shape": "spotted"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "red",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "56189fff7d110000113b96ac",
+        "horizon": 3,
+        "utt": {
+            "color": "green",
+            "shape": "plain",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            }
+        ],
+        "workerid": "56189fff7d110000113b96ac",
+        "horizon": 4,
+        "utt": {
+            "type": "description",
+            "feature": "green",
+            "value": 2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "blue",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "5e9389d87d6dc1078fe0ebee",
+        "horizon": 1,
+        "utt": {
+            "color": "green",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "5e9389d87d6dc1078fe0ebee",
+        "horizon": 2,
+        "utt": {
+            "type": "description",
+            "feature": "spotted",
+            "value": 2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "blue",
+                "shape": "spotted"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "red",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "5e9389d87d6dc1078fe0ebee",
+        "horizon": 3,
+        "utt": {
+            "type": "description",
+            "feature": "striped",
+            "value": 0
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            }
+        ],
+        "workerid": "5e9389d87d6dc1078fe0ebee",
+        "horizon": 4,
+        "utt": {
+            "color": "red",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "blue",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "66328c22ac05f9a1ea0ee53b",
+        "horizon": 1,
+        "utt": {
+            "color": "red",
+            "shape": "plain",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "66328c22ac05f9a1ea0ee53b",
+        "horizon": 2,
+        "utt": {
+            "color": "green",
+            "shape": "plain",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "blue",
+                "shape": "spotted"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "red",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "66328c22ac05f9a1ea0ee53b",
+        "horizon": 3,
+        "utt": {
+            "color": "green",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            }
+        ],
+        "workerid": "66328c22ac05f9a1ea0ee53b",
+        "horizon": 4,
+        "utt": {
+            "color": "green",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "blue",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "66290a1deb25bf69bcd79eaf",
+        "horizon": 1,
+        "utt": {
+            "color": "green",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "66290a1deb25bf69bcd79eaf",
+        "horizon": 2,
+        "utt": {
+            "type": "description",
+            "feature": "plain",
+            "value": -2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "blue",
+                "shape": "spotted"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "red",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "66290a1deb25bf69bcd79eaf",
+        "horizon": 3,
+        "utt": {
+            "type": "description",
+            "feature": "spotted",
+            "value": 2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            }
+        ],
+        "workerid": "66290a1deb25bf69bcd79eaf",
+        "horizon": 4,
+        "utt": {
+            "color": "green",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "blue",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "65c2721d8e243a96b8d6b6bb",
+        "horizon": 1,
+        "utt": {
+            "color": "green",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "65c2721d8e243a96b8d6b6bb",
+        "horizon": 2,
+        "utt": {
+            "type": "description",
+            "feature": "green",
+            "value": 2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "blue",
+                "shape": "spotted"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "red",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "65c2721d8e243a96b8d6b6bb",
+        "horizon": 3,
+        "utt": {
+            "color": "blue",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            }
+        ],
+        "workerid": "65c2721d8e243a96b8d6b6bb",
+        "horizon": 4,
+        "utt": {
+            "color": "green",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "blue",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "6563533cc6a66751799ad06a",
+        "horizon": 1,
+        "utt": {
+            "color": "green",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "6563533cc6a66751799ad06a",
+        "horizon": 2,
+        "utt": {
+            "color": "green",
+            "shape": "plain",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "blue",
+                "shape": "spotted"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "red",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "6563533cc6a66751799ad06a",
+        "horizon": 3,
+        "utt": {
+            "color": "red",
+            "shape": "striped",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            }
+        ],
+        "workerid": "6563533cc6a66751799ad06a",
+        "horizon": 4,
+        "utt": {
+            "color": "green",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "blue",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "63e51ddb19fccd05514c629c",
+        "horizon": 1,
+        "utt": {
+            "color": "green",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "63e51ddb19fccd05514c629c",
+        "horizon": 2,
+        "utt": {
+            "color": "green",
+            "shape": "plain",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "blue",
+                "shape": "spotted"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "red",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "63e51ddb19fccd05514c629c",
+        "horizon": 3,
+        "utt": {
+            "color": "green",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            }
+        ],
+        "workerid": "63e51ddb19fccd05514c629c",
+        "horizon": 4,
+        "utt": {
+            "type": "description",
+            "feature": "blue",
+            "value": -2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "blue",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "60fcbe2b7b4649ea3cec1ab3",
+        "horizon": 1,
+        "utt": {
+            "color": "green",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "60fcbe2b7b4649ea3cec1ab3",
+        "horizon": 2,
+        "utt": {
+            "color": "red",
+            "shape": "striped",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "blue",
+                "shape": "spotted"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "red",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "60fcbe2b7b4649ea3cec1ab3",
+        "horizon": 3,
+        "utt": {
+            "color": "blue",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            }
+        ],
+        "workerid": "60fcbe2b7b4649ea3cec1ab3",
+        "horizon": 4,
+        "utt": {
+            "color": "green",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "blue",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "6626a78322f31d730ded2130",
+        "horizon": 1,
+        "utt": {
+            "color": "green",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "6626a78322f31d730ded2130",
+        "horizon": 2,
+        "utt": {
+            "color": "red",
+            "shape": "striped",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "blue",
+                "shape": "spotted"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "red",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "6626a78322f31d730ded2130",
+        "horizon": 3,
+        "utt": {
+            "color": "blue",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            }
+        ],
+        "workerid": "6626a78322f31d730ded2130",
+        "horizon": 4,
+        "utt": {
+            "color": "green",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "blue",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "662f7d51a030815500d16eb0",
+        "horizon": 1,
+        "utt": {
+            "type": "description",
+            "feature": "blue",
+            "value": -2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "662f7d51a030815500d16eb0",
+        "horizon": 2,
+        "utt": {
+            "color": "green",
+            "shape": "plain",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "blue",
+                "shape": "spotted"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "red",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "662f7d51a030815500d16eb0",
+        "horizon": 3,
+        "utt": {
+            "color": "red",
+            "shape": "striped",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            }
+        ],
+        "workerid": "662f7d51a030815500d16eb0",
+        "horizon": 4,
+        "utt": {
+            "type": "description",
+            "feature": "blue",
+            "value": -2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "blue",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "6643937dc8deb7be30dac9c4",
+        "horizon": 1,
+        "utt": {
+            "color": "blue",
+            "shape": "striped",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "6643937dc8deb7be30dac9c4",
+        "horizon": 2,
+        "utt": {
+            "type": "description",
+            "feature": "plain",
+            "value": -2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "blue",
+                "shape": "spotted"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "red",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "6643937dc8deb7be30dac9c4",
+        "horizon": 3,
+        "utt": {
+            "color": "blue",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            }
+        ],
+        "workerid": "6643937dc8deb7be30dac9c4",
+        "horizon": 4,
+        "utt": {
+            "type": "description",
+            "feature": "spotted",
+            "value": 2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "blue",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "637fcf550c8c455c6098a06d",
+        "horizon": 1,
+        "utt": {
+            "color": "blue",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "637fcf550c8c455c6098a06d",
+        "horizon": 2,
+        "utt": {
+            "color": "red",
+            "shape": "plain",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "blue",
+                "shape": "spotted"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "red",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "637fcf550c8c455c6098a06d",
+        "horizon": 3,
+        "utt": {
+            "color": "green",
+            "shape": "striped",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            }
+        ],
+        "workerid": "637fcf550c8c455c6098a06d",
+        "horizon": 4,
+        "utt": {
+            "color": "blue",
+            "shape": "striped",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "blue",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "60fdef558b926ecb4de631cf",
+        "horizon": 1,
+        "utt": {
+            "color": "green",
+            "shape": "plain",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "60fdef558b926ecb4de631cf",
+        "horizon": 2,
+        "utt": {
+            "type": "description",
+            "feature": "red",
+            "value": -2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "blue",
+                "shape": "spotted"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "red",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "60fdef558b926ecb4de631cf",
+        "horizon": 3,
+        "utt": {
+            "type": "description",
+            "feature": "green",
+            "value": -2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            }
+        ],
+        "workerid": "60fdef558b926ecb4de631cf",
+        "horizon": 4,
+        "utt": {
+            "type": "description",
+            "feature": "plain",
+            "value": 1
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "blue",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "63929d48d18e60dd8b5e4463",
+        "horizon": 1,
+        "utt": {
+            "type": "description",
+            "feature": "blue",
+            "value": -2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "63929d48d18e60dd8b5e4463",
+        "horizon": 2,
+        "utt": {
+            "type": "description",
+            "feature": "red",
+            "value": -2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "blue",
+                "shape": "spotted"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "red",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "63929d48d18e60dd8b5e4463",
+        "horizon": 3,
+        "utt": {
+            "type": "description",
+            "feature": "striped",
+            "value": -2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            }
+        ],
+        "workerid": "63929d48d18e60dd8b5e4463",
+        "horizon": 4,
+        "utt": {
+            "type": "description",
+            "feature": "striped",
+            "value": -2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "blue",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "661825de60cb5961005070eb",
+        "horizon": 1,
+        "utt": {
+            "type": "description",
+            "feature": "plain",
+            "value": 1
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "661825de60cb5961005070eb",
+        "horizon": 2,
+        "utt": {
+            "color": "green",
+            "shape": "plain",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "blue",
+                "shape": "spotted"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "red",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "661825de60cb5961005070eb",
+        "horizon": 3,
+        "utt": {
+            "color": "green",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            }
+        ],
+        "workerid": "661825de60cb5961005070eb",
+        "horizon": 4,
+        "utt": {
+            "type": "description",
+            "feature": "spotted",
+            "value": -1
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "blue",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "660b40f4c78a0305b2ed28cb",
+        "horizon": 1,
+        "utt": {
+            "color": "green",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "660b40f4c78a0305b2ed28cb",
+        "horizon": 2,
+        "utt": {
+            "color": "green",
+            "shape": "plain",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "blue",
+                "shape": "spotted"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "red",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "660b40f4c78a0305b2ed28cb",
+        "horizon": 3,
+        "utt": {
+            "color": "green",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            }
+        ],
+        "workerid": "660b40f4c78a0305b2ed28cb",
+        "horizon": 4,
+        "utt": {
+            "color": "green",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "blue",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "6287763406cda054cab1015c",
+        "horizon": 1,
+        "utt": {
+            "color": "red",
+            "shape": "plain",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "6287763406cda054cab1015c",
+        "horizon": 2,
+        "utt": {
+            "type": "description",
+            "feature": "green",
+            "value": 2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "blue",
+                "shape": "spotted"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "red",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "6287763406cda054cab1015c",
+        "horizon": 3,
+        "utt": {
+            "type": "description",
+            "feature": "striped",
+            "value": 0
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            }
+        ],
+        "workerid": "6287763406cda054cab1015c",
+        "horizon": 4,
+        "utt": {
+            "type": "description",
+            "feature": "blue",
+            "value": -2
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "blue",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "648343299ec8050d10aee27d",
+        "horizon": 1,
+        "utt": {
+            "color": "green",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "648343299ec8050d10aee27d",
+        "horizon": 2,
+        "utt": {
+            "type": "description",
+            "feature": "striped",
+            "value": 0
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "blue",
+                "shape": "spotted"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "red",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "648343299ec8050d10aee27d",
+        "horizon": 3,
+        "utt": {
+            "color": "red",
+            "shape": "striped",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            }
+        ],
+        "workerid": "648343299ec8050d10aee27d",
+        "horizon": 4,
+        "utt": {
+            "color": "green",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "blue",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "5c573f18d3cc6b0001d9dbc3",
+        "horizon": 1,
+        "utt": {
+            "color": "green",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "green",
+                "shape": "plain"
+            },
+            {
+                "color": "red",
+                "shape": "plain"
+            }
+        ],
+        "workerid": "5c573f18d3cc6b0001d9dbc3",
+        "horizon": 2,
+        "utt": {
+            "type": "description",
+            "feature": "red",
+            "value": 0
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "blue",
+                "shape": "spotted"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            },
+            {
+                "color": "red",
+                "shape": "striped"
+            }
+        ],
+        "workerid": "5c573f18d3cc6b0001d9dbc3",
+        "horizon": 3,
+        "utt": {
+            "type": "description",
+            "feature": "striped",
+            "value": 0
+        }
+    },
+    {
+        "action_context": [
+            {
+                "color": "red",
+                "shape": "striped"
+            },
+            {
+                "color": "blue",
+                "shape": "plain"
+            },
+            {
+                "color": "green",
+                "shape": "spotted"
+            }
+        ],
+        "workerid": "5c573f18d3cc6b0001d9dbc3",
+        "horizon": 4,
+        "utt": {
+            "color": "blue",
+            "shape": "spotted",
+            "type": "instruction"
+        }
+    }
+]
